@@ -28,33 +28,6 @@ Built with **React Router**, **useReducer**, and **Context API**, this app demon
 
 ---
 
-## 📁 Project Structure
-
-```
-src/
-│
-├── components/
-│   ├── CityList.jsx
-│   ├── CountryList.jsx
-│   ├── City.jsx
-│   ├── Form.jsx
-│
-├── contexts/
-│   └── CitiesContext.jsx
-│
-├── pages/
-│   ├── Homepage.jsx
-│   ├── Product.jsx
-│   ├── Pricing.jsx
-│   ├── Login.jsx
-│   ├── AppLayout.jsx
-│   └── PageNotFound.jsx
-│
-├── App.jsx
-└── index.jsx
-```
-
----
 
 ## ⚙️ How It Works
 
