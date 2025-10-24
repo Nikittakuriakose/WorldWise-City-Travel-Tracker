@@ -47,6 +47,30 @@
         "lat": "56.825951941207244",
         "lng": "26.404091640341036"
       }
+    },
+    {
+      "id": "1210",
+      "cityName": "Castrillo de la Vega",
+      "country": "Spain",
+      "emoji": "🌆",
+      "date": "2025-10-22T05:09:33.111Z",
+      "notes": "",
+      "position": {
+        "lat": "41.641212935227486",
+        "lng": "-3.75934947393134"
+      }
+    },
+    {
+      "id": "ee8d",
+      "cityName": "Maria de Huerva",
+      "country": "Spain",
+      "emoji": "🌆",
+      "date": "2025-10-24T08:58:29.546Z",
+      "notes": "",
+      "position": {
+        "lat": "41.52587958338688",
+        "lng": "-1.0140791364516402"
+      }
     }
   ]
 }
